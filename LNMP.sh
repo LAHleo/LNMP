@@ -20,6 +20,8 @@ systemctl enable php-fpm.service
 systemctl start mariadb
 systemctl enable mariadb
 
+/usr/local/nginx/sbin/nginx
+
 netstat -untpl | grep 9000
 netstat -untpl | grep 3306
 netstat -untpl | grep 80
