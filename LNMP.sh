@@ -1,7 +1,5 @@
 #!/bin/bash
 
-git clone https://github.com/LAHleo/LNMP
-cd LNMP
 yum -y install gcc make pcre-devel zlib-devel mariadb-server  mariadb-devel mariadb php  php-mysql php-fpm-5.4.16-42.el7.x86_64.rpm
 useradd -s /sbin/nologin nginx
 
