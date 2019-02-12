@@ -7,7 +7,9 @@ mariadb-5.5.56-2.el7.x86_64
 
 运行命令:
 git clone https://github.com/LAHleo/LNMP
-cd  LNMP
+
+cd LNMP
+
 bash LNMP.sh
 
 即可
