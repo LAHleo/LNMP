@@ -1,4 +1,4 @@
-# 配置LNMP,包括脚本,软件包
+# 配置LNMP+mariadb,包括脚本,软件包
 预先部署好yum
 环境:Red Hat 7.4   
 nginx-1.12.2
